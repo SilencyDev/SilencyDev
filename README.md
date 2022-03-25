@@ -1,1 +1,1 @@
-[![kmacquet's 42 stats](https://badge42.herokuapp.com/api/stats/kmacquet)](https://github.com/JaeSeoKim/badge42)
+<img src="http://baddel.fr:3000/api/stats/kmacquet/">
